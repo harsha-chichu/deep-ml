@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-22T11:21:18.851Z",
+  "items": {
+    "problem:943": {
+      "kind": "problem",
+      "id": "943",
+      "title": "Tokenizer with Unknown and End-of-Text Tokens",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/943",
+      "path": "problems/0943-tokenizer-with-unknown-and-end-of-text-tokens",
+      "first_solved_at": "2026-09-22T11:21:15.122Z",
+      "last_pushed_at": "2026-09-22T11:21:15.122Z",
+      "language": "python",
+      "lines": 20
+    }
+  }
+}
