@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:53:01.206Z",
+  "generated_at": "2026-09-22T11:53:58.911Z",
   "items": {
     "problem:943": {
       "kind": "problem",
@@ -23,9 +23,9 @@
       "url": "https://www.deep-ml.com/problems/953",
       "path": "problems/0953-calculate-vocabulary-size-from-token-list",
       "first_solved_at": "2026-09-22T11:53:00.178Z",
-      "last_pushed_at": "2026-09-22T11:53:00.178Z",
+      "last_pushed_at": "2026-09-22T11:53:58.208Z",
       "language": "python",
-      "lines": 23
+      "lines": 14
     }
   }
 }
