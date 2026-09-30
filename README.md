@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-09-28 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-09-29 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-09-22 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
+| [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-09-30 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 
 ---
 
